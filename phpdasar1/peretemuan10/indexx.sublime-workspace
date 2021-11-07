@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"a",
+				"all\tposition"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"au",
+				"autocomplete\tAttr"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"ju",
+				"jurusa"
+			],
+			[
+				"nr",
+				"nrp"
+			],
+			[
+				"nam",
+				"nama"
+			],
+			[
+				"gmba",
+				"gambar"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"lev",
+				"level"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"pass"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"log",
+				"Login"
+			],
+			[
+				"lo",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"db",
+				"db_name"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"na",
+				"name_p"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"ge",
+				"getUserMedia"
+			],
+			[
+				"vid",
+				"videoError"
+			],
+			[
+				"get",
+				"getUserMedia"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"align",
+				"vertical-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"nama",
+				"nama_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/phpdasar/peretemuan10/indexi.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/tamba.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/uda.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/hapuss.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/functionsi.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/usa.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/functions.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/tambah.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/function.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/ubah.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/hapus.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/index.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/ubahi.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan10/uba.php",
+		"/C/xampp/htdocs/esau/application/models/indexi.php",
+		"/C/xampp/htdocs/oop/property.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan9/functions.php",
+		"/C/xampp/htdocs/phpdasar/peretemuan9/index.php",
+		"/E/data php/phpdasar1/pertemuan9/functions.php",
+		"/E/data php/phpdasar1/pertemuan9/index1.php",
+		"/E/data php/phpdasar1/pertemuan9/index.php",
+		"/E/data php/phpdasar1/pertemuan12/index.php",
+		"/E/data php/phpdasar1/pertemuan12/functions.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan11/index.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan11/ubah.php",
+		"/C/xampp/htdocs/belajar/ubah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/tambah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/functions.php",
+		"/C/xampp/htdocs/belajar/function.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan13/index.php",
+		"/C/xampp/htdocs/belajar/index.php",
+		"/C/xampp/htdocs/belajar/tambah.php",
+		"/C/xampp/htdocs/Belajar1.php",
+		"/C/xampp/htdocs/belajar/function",
+		"/C/xampp/htdocs/belajar/tambah",
+		"/C/xampp/htdocs/belajar/index",
+		"/C/xampp/htdocs/belajar/hapus",
+		"/C/xampp/htdocs/phpdasar1/pertemuan11/functions.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan11/tambah.php",
+		"/C/xampp/htdocs/multi/koneksi.php",
+		"/C/xampp/htdocs/multi/beranda.php",
+		"/C/xampp/htdocs/multi/index.php",
+		"/C/xampp/htdocs/duapuluh/index.php",
+		"/C/xampp/htdocs/daftar/index3.php",
+		"/C/xampp/htdocs/daftar/index.php",
+		"/C/xampp/htdocs/duapuluh/index",
+		"/C/xampp/htdocs/copyan skripsiku/login.php",
+		"/C/xampp/htdocs/skripsiku/login.html",
+		"/C/xampp/htdocs/skripsiku/index.html",
+		"/C/xampp/htdocs/skripsiku/login.php",
+		"/C/xampp/htdocs/skripsiku",
+		"/C/xampp/htdocs/admin/bootstrap/img/glyphicons-halflings.png",
+		"/C/xampp/htdocs/admin/bootstrap/img/glyphicons-halflings-white.png",
+		"/C/xampp/htdocs/admin/login.php",
+		"/C/xampp/htdocs/admin/index.php",
+		"/C/xampp/htdocs/esau/index.php",
+		"/C/xampp/htdocs/sembunyi/index.php",
+		"/D/XAMPP SKRIPSI/htdocs/dashboard/index.html",
+		"/C/xampp/htdocs/upload/styles/style.css",
+		"/C/xampp/htdocs/upload/koneksi.php",
+		"/C/xampp/htdocs/upload/petunjuk.php",
+		"/C/xampp/htdocs/upload/index.php",
+		"/C/xampp/htdocs/upload/input-produk.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan13/functions.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan10/functions.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan10/tambah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan13/tambah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan10/index.php",
+		"/C/xampp/htdocs/daftar/functions.php",
+		"/C/xampp/htdocs/daftar/tambah.php",
+		"/C/xampp/htdocs/pendaftaran/index.php",
+		"/C/xampp/htdocs/iseng/index.php",
+		"/C/xampp/htdocs/upload/input-proudk.php",
+		"/C/xampp/htdocs/belajar/uasecc/index.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/ubah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/linda.html",
+		"/C/xampp/htdocs/belajar/hapus.php",
+		"/C/Users/hp/Documents/sss.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/index.php",
+		"/C/xampp/htdocs/phpdasar/index.php",
+		"/C/xampp/htdocs/belajar/woko.java",
+		"/C/xampp/htdocs/belajar/va.js",
+		"/C/xampp/htdocs/belajar akhir semester skripsi/New folder/b.php",
+		"/C/xampp/htdocs/belajar akhir semester skripsi/New folder/index.php",
+		"/C/xampp/htdocs/belajar akhir semester skripsi/New folder/indexa.html",
+		"/C/xampp/htdocs/webcam1/index1.php",
+		"/C/Users/hp/Documents/a.html",
+		"/C/xampp/htdocs/New folder/storeImage.php",
+		"/C/xampp/htdocs/belajar akhir semester skripsi/New folder/b.js",
+		"/C/xampp/htdocs/New folder/index.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan14/tambah.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan14/functions.php",
+		"/C/xampp/htdocs/belajar/n.php",
+		"/C/xampp/htdocs/belajar/m.php",
+		"/C/xampp/htdocs/belajar/a.js",
+		"/C/xampp/htdocs/belajar/a.css",
+		"/C/xampp/htdocs/belajar/c",
+		"/C/xampp/htdocs/phpdasar1/pertemuan14/index.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan14/hapus.php",
+		"/C/xampp/htdocs/phpdasar1/pertemuan10/index1.php",
+		"/C/xampp/htdocs/webcam/main.css",
+		"/C/xampp/htdocs/webcam/photo.js",
+		"/C/xampp/htdocs/webcam/index.html",
+		"/C/xampp/htdocs/phpdasar1/pertemuan15/hapus.php",
+		"/C/xampp/htdocs/iseng/tangkap.php",
+		"/C/xampp/htdocs/phpdasar/tambakan.php",
+		"/C/xampp/htdocs/phpdasar/index1.php",
+		"/C/xampp/htdocs/pin/utspinnn.php",
+		"/E/mata kulia/smester4/pin/httdoc/phpdasar1/pertemuan2/index.php",
+		"/E/mata kulia/smester4/pin/httdoc/phpdasar1/pertemuan6/latihan1.php",
+		"/E/mata kulia/smester4/pin/httdoc/phpdasar1/pertemuan1/index.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "indexx.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

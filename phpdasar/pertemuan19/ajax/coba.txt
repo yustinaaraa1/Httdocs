@@ -1,0 +1,58 @@
+var keyword= document.getElementById('keyword');
+keyword.addEventListener('keyup',function(){
+	console.log('ok');
+});
+
+
+
+
+<script src="js/jquery-3.6.0.min.js"></script>
+
+
+
+
+
+
+
+
+
+//tambahkn even ketika tombol input di cari 
+keyword.addEventListener('keyup', function (){
+	//buat objek ajax
+	var xhr = new XMLHttpRequest();
+	//cek kesiapa ajax
+	xhr.onreadystatechange = function(){
+		if (xhr.readyState == 4 && xhr.status == 200) {
+			console.log('ajax.ok');
+
+			// eksekusi ajax
+
+			xhr.open('GET', 'ajax/coba.txt', true);
+			xhr.send();
+		}
+	}
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var xhr = new XMLHttpRequest();
+	xhr.onreadystatechange = function(){
+		if (xhr.readyState == 4 && xhr.status == 200) {
+			console.log('ajax ok');
+
+		}
+		xhr.open('GET','aja/cob.txt', true);
+		xhr.send();
+	}
